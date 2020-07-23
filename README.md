@@ -19,4 +19,20 @@ Learning Log For Sales Force (Source - trailhead)
 
   > Developing without code is known as Declarative Development.
 
+  - Salesforce platform is foundation of services.
+
+  **Navigation setup**
+
+  - Object manager- View and customise the objects
+  - Setup menu - Quick links available here.
+  - Main window - Set up home
+
+  - Categories in Setup Menu.
+   1. Administration - Where you manage your users and data, like adding , removing
+   2. Platform tools - Most of the customization done here.
+   3. Settings - Manage company information or the org security.
+
+
+
+
   
